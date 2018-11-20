@@ -47,9 +47,7 @@ section a {
   border-radius: 10px; }
 .class1 {
  color: yellow;
+ display: -ms-flexbox;
  display: flex;
-     justify-content: center; }
-
-
-
-/*# sourceMappingURL=style.css.map */
+     -ms-flex-pack: center;
+         justify-content: center; }
