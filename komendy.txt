@@ -1,0 +1,8 @@
+Walidacja kodu html przykladowa komenda:
+
+ node_modules/.bin/nu-html-checker *.html
+
+
+Przyk³adowa komenda autoprefixera:
+
+autoprefixer-cli sass / style.prefixed.scss sass / style.scss

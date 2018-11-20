@@ -45,5 +45,13 @@ section a {
   background-color: white;
   border: 1px solid green;
   border-radius: 10px; }
+.class1 {
+ color: yellow;
+ display: -ms-flexbox;
+ display: flex;
+ -ms-flex-pack: center;
+     justify-content: center; }
+
+
 
 /*# sourceMappingURL=style.css.map */
